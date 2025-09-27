@@ -2,7 +2,7 @@
 
 Dưới đây là thứ tự test và ảnh minh họa:
 
-1. **Secure**  
+1. **basic_auth**  
    ![Secure](image/secure.png)
 
 2. **Login**  
